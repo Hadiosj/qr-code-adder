@@ -3,7 +3,7 @@ uvicorn==0.24.0
 python-multipart==0.0.6
 pillow==10.0.1
 qrcode==7.4.2
-python-barcode==0.15.1
+python-barcode==0.14.0
 pymupdf==1.23.8
 pydantic==2.5.0
 python-jose==3.3.0
