@@ -1,0 +1,1 @@
+This is an app used to add QR codes to images. It is built using FastAPI and React.
