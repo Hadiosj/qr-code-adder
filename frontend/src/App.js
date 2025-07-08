@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect, useCallback } from 'react';
 import './App.css';
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'https://qr-code-adder.onrender.com';
 
 function App() {
   const [template, setTemplate] = useState(null);
